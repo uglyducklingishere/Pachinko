@@ -1,0 +1,7 @@
+
+Pachinko/Library/*
+Pachinko/Logs/*
+Pachinko/Temp/*
+
+.vsconfig
+*.sln
